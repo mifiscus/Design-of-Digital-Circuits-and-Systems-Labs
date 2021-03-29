@@ -16,8 +16,6 @@ Implement a binary search algorithm using control and datapath modules once agai
 
 ## Lab 5
 
-### Task 1
-
 ### Task 2
 
 ### Task 3
