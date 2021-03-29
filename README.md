@@ -17,5 +17,11 @@ Implement a binary search algorithm using control and datapath modules once agai
 ## Lab 5
 
 ### Task 2
+![Capture](https://user-images.githubusercontent.com/60052720/112912163-c4c53d00-90ab-11eb-94c9-56be87497a93.PNG)
+
+Write code for an averaging filter that uses 8 samples to remove noise from a sound signal.
 
 ### Task 3
+![Capture1](https://user-images.githubusercontent.com/60052720/112912212-deff1b00-90ab-11eb-997a-49f70b69650e.PNG)
+
+Create another averaging filter that utilizes parameters to allow the user to select how many samples they want the filter to average from.
